@@ -1,0 +1,15 @@
+{
+  "name": "jsudepally2-nginx",
+  "version": "0.1.0",
+  "author": "jsudepally2",
+  "summary": null,
+  "license": "This module to going to manage nginx",
+  "source": "https://github.com/arunimmadi/puppet-nginx.git",
+  "project_page": "https://github.com/arunimmadi/puppet-nginx",
+  "issues_url": "https://github.com/arunimmadi/puppet-nginx/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
